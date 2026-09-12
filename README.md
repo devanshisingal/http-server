@@ -45,7 +45,7 @@ CREATE TABLE history (
 1. Open your WSL or Linux terminal.
 2. Navigate to the project root directory.
 3. Configure the project using CMake:
-   ```bash
+   ```bash    
    cmake -B build -S .
    ```
 4. Build the executable:
