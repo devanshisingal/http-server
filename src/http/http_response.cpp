@@ -1,6 +1,6 @@
 #include "http_response.h"
 
-using namespace std;
+using namespace std;    
 
 HttpResponse::HttpResponse() : status_code(200), status_message("OK") {
     // Default headers
